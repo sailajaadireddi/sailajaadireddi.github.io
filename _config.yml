@@ -9,12 +9,12 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Pacific/Auckland
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Xp10tE4gl3 # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
@@ -23,23 +23,23 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://sailajaadireddi.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: sailajaadireddi # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: sailajaadireddi # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Xp10tE4gl3
+  email: xp10te4gl3@email.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://x.com/AdireddiSa75619?t=38r3KYVOsCJkMC9_lqLarg&s=09 # change to your Twitter homepage
+    - https://github.com/sailajaadireddi # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/204759842?s=96&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
