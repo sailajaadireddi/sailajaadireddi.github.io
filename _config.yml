@@ -14,13 +14,12 @@ timezone: Pacific/Auckland
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Xp10tE4gl3 # the main title
+title: Xpl01tE4gl3 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Unbreakable will and Unstoppable capture # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+  
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://sailajaadireddi.github.io"
@@ -34,15 +33,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Xp10tE4gl3
-  email: xp10te4gl3@email.com # change to your email address
+  name: Xpl01tE4gl3
+  email: xpl01te4gl3@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://x.com/AdireddiSa75619?t=38r3KYVOsCJkMC9_lqLarg&s=09 # change to your Twitter homepage
     - https://github.com/sailajaadireddi # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.linkedin.com/in/sailajaadireddi
 
 # Site Verification Settings
 webmaster_verifications:
