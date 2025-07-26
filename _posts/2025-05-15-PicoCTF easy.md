@@ -7,7 +7,7 @@ categories: ["cryptography"]
 tags: ["easy"]
 
 ---
-# PicoCTF Challenges-Easy
+# PicoCTF Challenges| Easy|PicoGym
 
 ##  HASHCRACK
 Author: Nana Ama Atombo-Sackey  
