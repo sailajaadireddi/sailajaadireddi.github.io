@@ -17,11 +17,14 @@ Decrypt this [message](https://jupiter.challenges.picoctf.org/static/7d707a443e9
 caesar cipher [tutorial](https://learncryptography.com/classical-encryption/caesar-cipher)
 
 The given Encrypted message:
-```picoCTF{gvswwmrkxlivyfmgsrhnrisegl}```
+```
+picoCTF{gvswwmrkxlivyfmgsrhnrisegl}
+```
 ## Solution:
 We need to do bruteforce . We can use a python script to do this:
 
 To decrypt the message, I used help from chatgpt to write this Python script that systematically tried all 26 possible shifts, printing each result until the plaintext emerged.
+
 ```
 def brute_force_caeser_cipher(encrypted_flag):
  alphabet = "abcdefghijklmnopqrstuvwxyz"  # Define the alphabet - in this case is the latin alphabet
