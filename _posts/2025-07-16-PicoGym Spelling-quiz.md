@@ -133,7 +133,6 @@ perhaps_the_dog_jumped_over_was_just_tired
 ```
 
 ## Flag:
-
 ```
 picoCTF{perhaps_the_dog_jumped_over_was_just_tired}
 ```
