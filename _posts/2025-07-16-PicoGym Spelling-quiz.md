@@ -11,6 +11,7 @@ tags: ["medium","subbreaker"]
 
 ![HashCrack Screenshot](/assets/lib/quiz.png)
 
+
 ``` encrypt.py:```
 ```
 import random
@@ -36,6 +37,7 @@ for filename in files:
     ])
     open(filename, 'w').write(encrypted)
 ```
+
 flag.txt:
 ```
 brcfxba_vfr_mid_hosbrm_iprc_exa_hoav_vwcrm
