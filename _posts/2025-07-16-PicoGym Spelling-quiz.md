@@ -40,7 +40,9 @@ flag.txt:
 ```
 brcfxba_vfr_mid_hosbrm_iprc_exa_hoav_vwcrm
 ```
+
 ```study-guide.txt:```
+
 ```
 ┌──(user@kali)-[/media/sf_CTFs/pico/spelling-quiz]
 └─$ cat public/study-guide.txt| head
@@ -64,6 +66,7 @@ yciflwnf
 From the source code we see that the script encrypted both the flag and the study guide with a simple substitution cipher using a random key. So, we just need to find a key which decrypts the study guide to a sensible result.
 
 [subbreaker](https://gitlab.com/guballa/SubstitutionBreaker) can easily break the substitution cipher with just a subset of the words:
+
 ```
 ┌──(user@kali)-[/media/sf_CTFs/pico/spelling-quiz]
 └─$ subbreaker break --lang EN --ciphertext <(cat public/study-guide.txt | head -n 50)
@@ -126,6 +129,7 @@ borstall
 misadressing
 ```
 Let's use the key to decipher the flag:
+
 ```
 ┌──(user@kali)-[/media/sf_CTFs/pico/spelling-quiz]
 └─$ subbreaker decode --key xunmrydfwhglstibjcavopezqk --ciphertext public/flag.txt
