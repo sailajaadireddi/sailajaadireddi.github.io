@@ -4,13 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## About 
----
-
 > **Hey there! 👋**  
+
 > Welcome to my digital corner — where I **share CTF writeups, cybersecurity puzzles, and lessons I’ve learned along the way.**
 
----
 
 ### What’s this blog about?  
 Think of it as my **CTF notebook** — organized, easy to follow, and open to anyone who wants to:  
